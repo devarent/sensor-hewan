@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# sensor-hewan
+
+<sub>Deteksi hewan berbasis CNN dengan sensor kamera dan database telemetri.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | sensor-hewan |
+| Primary language | HTML |
+| Topics | cnn, computer-vision, deep-learning, html, python, pytorch, sensor, tensorflow |
+| License | MIT |
+| Branch | master |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+sensor-hewan is a hands-on repository focused on: Deteksi hewan berbasis CNN dengan sensor kamera dan database telemetri.. Primary language: HTML. Topics: cnn, computer-vision, deep-learning, html, python, pytorch, sensor, tensorflow. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
